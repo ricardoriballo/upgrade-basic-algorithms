@@ -1,9 +1,3 @@
-//------Primer Ejercicio Variables
-let myFavoriteHero = "Hulk";
-let x = 50;
-let h = 5, y = 10;
-let z = h + y;
-
 //------Segundo Ejercicio Variables Avanzadas
 let character = {name: "Jack Sparrow", age:10};
 console.log("Character antes de ser modificado",character)
